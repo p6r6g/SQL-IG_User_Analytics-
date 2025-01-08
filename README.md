@@ -14,3 +14,4 @@ Investor Metrics :
     1. User Engagement
     2. Bots & Fake Accounts
 
+Find the Report.pdf in the repository for a detailed analysis.
